@@ -8,4 +8,5 @@ Everything could be organised in any way you like:
 -	test management system;
 -	any other test case attributes;
 -	etc.
+
 One of ideas was a possibility to test UI/UX separately.
